@@ -1,0 +1,6 @@
+{"level":"info","time":"2024-12-13T21:07:15+05:30","message":"Starting server on :8080"}
+{"level":"info","time":"2024-12-13T21:12:23+05:30","message":"Starting server on :8080"}
+{"level":"info","time":"2024-12-13T21:12:31+05:30","message":"Starting server on :8080"}
+{"level":"info","time":"2024-12-13T21:53:08+05:30","message":"Starting server on :8080"}
+{"level":"error","error":"failed to create user: UNIQUE constraint failed: users.o_auth_provider_id","time":"2024-12-13T21:53:49+05:30","message":"Failed to create user"}
+{"level":"info","time":"2024-12-14T10:25:41+05:30","message":"Starting server on :8080"}
